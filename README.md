@@ -18,7 +18,7 @@
   5. Bits and bitwise operators in JavaScript
       - [Link to Repo](https://github.com/dsinecos/learnBinaryOperations)
       - [Blog post](https://dsinecos.github.io/blog/Using-Bitmasks)
-  6. File upload using multer (Locally and on AWS S3)- To understand file transfer over http using multipart/form-data content-typ
+  6. File upload using multer (Locally and on AWS S3)- To understand file transfer over http using multipart/form-data content-type
       - [Link to Repo](https://github.com/dsinecos/fileUpload)
   7. Learn MongoDB - Code written while taking a [course](https://www.udemy.com/the-complete-developers-guide-to-mongodb/) on MongoDB
       - [Link to Repo](https://github.com/dsinecos/learnMongoDB)
