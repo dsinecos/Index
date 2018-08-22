@@ -13,3 +13,16 @@
   4. RabbitMQ - Experimented with RabbitMQ by implementing various messaging patterns
       - [Link to Repo](https://github.com/dsinecos/learnRabbitMQ)
       - [Reference](https://www.rabbitmq.com/getstarted.html)
+  5. Bits and bitwise operators in JavaScript
+      - [Link to Repo](https://github.com/dsinecos/learnBinaryOperations)
+      - [Blog post](https://dsinecos.github.io/blog/Using-Bitmasks)
+  6. File upload using multer (Locally and on AWS S3)- To understand file transfer over http using multipart/form-data content-typ
+      - [Link to Repo](https://github.com/dsinecos/fileUpload)
+  7. Learn MongoDB - Code written while taking a [course](https://www.udemy.com/the-complete-developers-guide-to-mongodb/) on MongoDB
+      - [Link to Repo](https://github.com/dsinecos/learnMongoDB)
+  8. Building a webscraper to download pdfs
+      - [Link to Repo](https://github.com/dsinecos/webScraper)
+  9. FreeCodeCamp assignments
+      - [Beginner - Frontend](https://github.com/dsinecos/fccFrontend)
+      - [Intermediate - Frontend](https://github.com/dsinecos/fccIntermediateFrontend)
+      - [Backend](https://github.com/dsinecos/fccbackend)
