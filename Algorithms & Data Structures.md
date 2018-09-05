@@ -46,5 +46,6 @@
   13. Fibonacci numbers
       - Notes
       - [Implementation (JavaScript)](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/fib/index.js)
+  14. [Flatten an array](https://github.com/dsinecos/algorithmsUdemy/blob/master/flattenArray.js)
 
 ###### Sorting Algorithms
