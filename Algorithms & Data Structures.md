@@ -17,35 +17,35 @@
   6. Stack
       
 ##### Algorithms
-  1. [Reverse a String](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/reversestring/index.js)
-  2. [Test for Palindrome](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/palindrome/index.js)
-  3. [Reverse an Integer](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/reverseint/index.js)
-  4. [Most frequent character in a String](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/maxchar/index.js)
-  5. [FizzBuzz](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/fizzbuzz/index.js)
-  6. Array Chunking
+  * [Reverse a String](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/reversestring/index.js)
+  * [Test for Palindrome](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/palindrome/index.js)
+  * [Reverse an Integer](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/reverseint/index.js)
+  * [Most frequent character in a String](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/maxchar/index.js)
+  * [FizzBuzz](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/fizzbuzz/index.js)
+  * Array Chunking
       - Notes
       - [Implementation (JavaScript)](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/chunk/index.js)
-  7. Test for Anagram
+  * Test for Anagram
       - Notes
       - [Implementation (JavaScript)](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/anagrams/index.js)
-  8. Sentence Capitalization
+  * Sentence Capitalization
       - Notes
       - [Implementation (JavaScript)](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/capitalize/index.js)
-  9. Printing Steps
+  * Printing Steps
       - Notes
       - [Implementation (JavaScript)](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/steps/index.js)
-  10. Printing Pyramids
+  * Printing Pyramids
       - Notes
       - [Implementation (JavaScript)](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/pyramid/index.js)
-  11. Number of vowels
+  * Number of vowels
       - Notes
       - [Implementation (JavaScript)](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/vowels/index.js)
-  12. Creating a Spiral Matrix
+  * Creating a Spiral Matrix
       - Notes
       - [Implementation (JavaScript)](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/matrix/index.js)
-  13. Fibonacci numbers
+  * Fibonacci numbers
       - Notes
       - [Implementation (JavaScript)](https://github.com/dsinecos/Algorithms-DataStructures/blob/master/exercises/fib/index.js)
-  14. [Flatten an array](https://github.com/dsinecos/algorithmsUdemy/blob/master/flattenArray.js)
+  * [Flatten an array](https://github.com/dsinecos/algorithmsUdemy/blob/master/flattenArray.js)
 
 ###### Sorting Algorithms
