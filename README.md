@@ -1,6 +1,6 @@
 ## Contents
 
-### [Algorithms and Data Structures](https://github.com/dsinecos/wiki/blob/master/Algorithms%20%26%20Data%20Structures.md)
+### [Algorithms and Data Structures](https://github.com/dsinecos/algo-and-ds-wiki)
 
 ### [Projects](https://dsinecos.github.io/portfolio/)
 
