@@ -6,6 +6,6 @@
 
 ### Open Source Contribution to NodeJS
   - [Issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Adsinecos+archived%3Afalse+is%3Apublic+repo%3Anodejs%2Fnode)
-  - [Pull request](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adsinecos+archived%3Afalse+repo%3Anodejs%2Fnode)
+  - [Pull requests](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adsinecos+archived%3Afalse+repo%3Anodejs%2Fnode)
 
 ### [Learning and experimenting with tools](https://github.com/dsinecos/wiki/blob/master/Learning%20and%20Experimenting.md)
